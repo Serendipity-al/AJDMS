@@ -55,8 +55,11 @@
   streamlit run app.py
 
   2.Enter or speak the details of a legal case in the interface.
+
   3.The system analyzes the input, retrieves relevant Indian case law, and provides a verdict.
+
   4.The AI Jury deliberates and votes on the outcome.
+
   5.Final result includes the verdict with a clear explanation and case references.
 
   
