@@ -1,4 +1,6 @@
-  # This is an AJDMS (AI Joint Document Management System) Application using Gemini Pro Free Mode
+  # This is an AJDMS (AI JUDICIAL DECISION MAKING SYSTEM) LLM-Based Judge with Multi-Agent Jury for Automated Legal Adjudication in the Indian Judicial Framework.
+
+
 
     This project is a Streamlit application that utilizes Google Generative AI Gemini model to manage and query uploaded document files.
 
