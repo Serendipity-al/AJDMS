@@ -19,6 +19,64 @@
 - Secure Deployment – Keeps legal data safe with on-premise setup and encryption.
 
 
+  ## Installation
+
+  1.Clone the repository
+
+  git clone https://github.com/yourusername/AJDMS.git
+  cd AJDMS
+
+  2.Create a virtual environment (optional but recommended)
+
+  python -m venv venv
+
+  For Windows:
+
+  venv\Scripts\activate
+
+
+  3.Install dependencies
+
+  pip install -r requirements.txt
+
+  4.Set up environment variables
+
+  Create a .env file in the root folder and add your key:
+
+  GOOGLE_API_KEY=your_google_generative_ai_key
+
+  5.Run the application:
+
+  streamlit run app.py
+
+  ## Usage
+  1.start the Application
+
+  streamlit run app.py
+
+  2.Enter or speak the details of a legal case in the interface.
+  3.The system analyzes the input, retrieves relevant Indian case law, and provides a verdict.
+  4.The AI Jury deliberates and votes on the outcome.
+  5.Final result includes the verdict with a clear explanation and case references.
+
+  
+
+
+
+
+  
+    
+  
+
+
+  
+
+
+
+  
+
+
+
 
 
 
